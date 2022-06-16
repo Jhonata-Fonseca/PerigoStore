@@ -1,2 +1,2 @@
 # PerigoStore
-Loja modelo em Html,Css,Js,Php e Bootstrap
+Loja modelo em Html,CSS,JS,PHP e BOOTSTRAP
