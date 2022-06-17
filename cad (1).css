@@ -1,0 +1,45 @@
+.login{
+    width: 470px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: #ffffff;
+    border-radius: 3%;
+
+}
+.formulario{
+      text-align: center;
+
+}
+.buut {
+  background-color: #ffc107; /* Green */
+  color: rgb(0, 0, 0);
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5%;
+}
+
+
+
+.videoWrapper {
+  position: fixed;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+  z-index: -100;
+;
+}
+
+.custom-video {
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 1920px;
+  height: 1080px;
+  background-position: right bottom, left top;
+  filter: blur(4px);
+}
